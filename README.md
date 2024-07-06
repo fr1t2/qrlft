@@ -1,4 +1,4 @@
-# QRLFT
+# QRLFT (QRL File Tools)
 
 QRLFT is a repository maintained by theQRL, containing tools for hashing and signing strings using Dilithium, a post-quantum cryptographic algorithm. Below is the detailed information and instructions on how to set up and use the tools provided in this repository.
 
